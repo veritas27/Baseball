@@ -1,0 +1,5 @@
+C:\Projects\Baseball\Baseball\bin\Baseball.dll
+C:\Projects\Baseball\Baseball\bin\Baseball.pdb
+C:\Projects\Baseball\Baseball\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Baseball\Baseball\obj\Debug\Baseball.dll
+C:\Projects\Baseball\Baseball\obj\Debug\Baseball.pdb
